@@ -1,0 +1,32 @@
+aid: covid-19-government-response
+name: Covid-19 Government Response
+description: "Government measures tracker to fight against the Covid-19 pandemic"
+url: https://covidtracker.bsg.ox.ac.uk
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Health"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Health
+  - Public APIs
+apis:
+  - name: Covid-19 Government Response
+    description: "Government measures tracker to fight against the Covid-19 pandemic"
+    humanURL: https://covidtracker.bsg.ox.ac.uk
+    baseURL: https://covidtracker.bsg.ox.ac.uk
+    tags:
+      - Health
+    properties:
+      - type: Documentation
+        url: https://covidtracker.bsg.ox.ac.uk
+common:
+  - type: Website
+    url: https://covidtracker.bsg.ox.ac.uk
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
