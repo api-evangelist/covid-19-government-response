@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://covidtracker.bsg.ox.ac.uk
 common:
+  - type: DomainSecurity
+    url: security/covid-19-government-response-domain-security.yml
   - type: Website
     url: https://covidtracker.bsg.ox.ac.uk
   - type: PublicAPIsListing
