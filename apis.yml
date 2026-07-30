@@ -1,4 +1,16 @@
 aid: covid-19-government-response
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/covid-19-government-response.png
 name: Covid-19 Government Response
 description: "Government measures tracker to fight against the Covid-19 pandemic"
 url: https://covidtracker.bsg.ox.ac.uk
