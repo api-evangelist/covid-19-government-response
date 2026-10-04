@@ -39,7 +39,6 @@ apis:
   - name: Covid-19 Government Response
     description: "Government measures tracker to fight against the Covid-19 pandemic"
     humanURL: https://covidtracker.bsg.ox.ac.uk
-    baseURL: https://covidtracker.bsg.ox.ac.uk
     tags:
       - Health
     properties:
